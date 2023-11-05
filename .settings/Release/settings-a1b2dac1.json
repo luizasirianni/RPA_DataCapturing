@@ -1,5 +1,5 @@
 {
-  "UiPath.UIAutomationNext.Activities.Generic.DelayAfter": "0.3",
+  "UiPath.UIAutomationNext.Activities.Generic.DelayAfter": "0.2",
   "UiPath.UIAutomationNext.Activities.Generic.DelayBefore": "0.2",
   "UiPath.UIAutomationNext.Activities.Generic.Timeout": "30",
   "UiPath.UIAutomationNext.Activities.Generic.WaitForReady": "Interactive",
